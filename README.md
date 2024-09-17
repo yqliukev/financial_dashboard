@@ -9,3 +9,5 @@ This dashboard also has an accompanying cloud database server built and deployed
 
 This web application can be deployed for general usage. 
 Currently, this application is for personal use. There are no plans to apply this to other users.
+
+The current website is built following the general steps of the Next.js learning tutorial
